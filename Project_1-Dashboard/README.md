@@ -73,11 +73,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![Background_Table.png](1_Salary_Dashboard_bgTable.png)
 
-📉 Dashboard Implementation
+📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="1_Salary_Dashboard_Chart1.png" width="450" height="300" alt="Salary Dashboard Type">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -87,14 +87,6 @@ IF(
 
 - 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
-
-🍽️ Background Table
-
-![Background_Table.png](1_Salary_Dashboard_bgTable.png)
-
-📉 Dashboard Implementation:
-
-<img src="1_Salary_Dashboard_Chart1.png" width="450" height="300" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
